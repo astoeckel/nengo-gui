@@ -22,6 +22,8 @@ Release History
 0.4.4 (unreleased)
 ==================
 
+- Improvement: added backend to InlineGUI constructor.
+  (`#1008 <https://github.com/nengo/nengo-gui/pull/1008>`__)
 - Bugfix: escape labels so they aren't treated as HTML
 - Improvement: reworked networking to allow clean integration with Jupyter
 
